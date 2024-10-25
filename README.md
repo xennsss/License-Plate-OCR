@@ -1,0 +1,1 @@
+Computer vision program written in MATLAB that allows us to identify different license plates from images taken with photographs of the plates. It also works correctly under different lighting conditions and with various plate positions.
